@@ -144,11 +144,11 @@ h2{
 }
 
 .poster{
-  width: 85%;
+  width: 98%;
   border: 3px solid #3E5873;;
   position: absolute;
   top: 56.5%;
-  left: 7.5%;
+  left: 0%;
 
 }
 
@@ -160,9 +160,9 @@ h2{
   font-weight: 600;
   line-height: 2.0;
   position: absolute;
-  left: 10%;
-  top: 76.5%;
-  width: 80%;
+  left: 5%;
+  top: 80%;
+  width: 90%;
 }
 
 
@@ -188,7 +188,7 @@ h2{
 
 .other_dartmouth{
   position: absolute;
-  top: 88%;
+  top: 91%;
   line-height: 1.5;
 }
 
