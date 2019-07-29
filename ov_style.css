@@ -1,0 +1,317 @@
+body{
+  background-color:#deeaff;
+  position: absolute;
+  width: 100%;
+  height: 250%;
+}
+
+.header{
+  position: absolute;
+  width: 70%;
+  height: 27%;
+
+
+}
+
+.logo_ov{
+  width: 100%;
+  opacity: .8;
+}
+
+
+.hi{
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+  margin-top: 3%;
+
+}
+
+.dartmouth{
+  background-color:#deeaff;
+  opacity: .8;
+  width: 60%;
+  height: auto;
+  position: absolute;
+  top: 15%;
+  left: 20%;
+
+  line-height: 1.5
+}
+
+.text{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #000f9f;
+  margin: 0% 15px 10% 15px;
+
+}
+
+.dataviz_gallery{
+  width: 60%;
+  height:150%;
+  position: absolute;
+  top: 40%;
+  left: 20%;
+
+
+
+}
+
+.gallery1{
+  position: absolute;
+  width: 55%;
+  left: 0;
+  border: 3px solid #3E5873;
+  margin: 5px
+}
+
+.gallery2{
+  width: 40%;
+  border: 3px solid #3E5873;
+  margin: 5px;
+  position: absolute;
+  top: 0%;
+  left: 58%;
+}
+
+.gallery3{
+  width: 40%;
+  border: 3px solid #3E5873;
+  margin: 5px;
+  position: absolute;
+  top: 9.5%;
+  left: 58%;
+
+}
+
+.gallery4{
+  width: 55%;
+  border: 3px solid #3E5873;
+  margin: 5px;
+  position: absolute;
+  top: 15.5%;
+  left: 0%;
+
+}
+
+.gallery5{
+  width: 40%;
+  border: 3px solid #3E5873;
+  margin: 5px;
+  position: absolute;
+  top: 21%;
+  right: 0%;
+
+}
+
+.gallcaption{
+  color: #3E5873;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 13px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 2.0;
+  position: absolute;
+  left: 15%;
+  top: 29.5%;
+  width: 70%;
+}
+
+a{
+  color: #3E5873;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.nyhan{
+  color: #000f9f;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+  text-align: left;
+  font-weight: 600;
+  line-height: 2.0;
+  position: absolute;
+  top: 37.5%;
+  left: 0%;
+  width: 98%;
+  height: auto;
+
+}
+
+h2{
+  padding: 5px;
+  border-bottom: 3px solid #000f9f;
+}
+
+.poster{
+  width: 85%;
+  border: 3px solid #3E5873;;
+  position: absolute;
+  top: 56.5%;
+  left: 7.5%;
+
+}
+
+.poster_caption{
+  color: #3E5873;;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 13px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 2.0;
+  position: absolute;
+  left: 10%;
+  top: 76.5%;
+  width: 80%;
+}
+
+
+
+.twoseventy{
+  width: 60%;
+  height:60%;
+  position: absolute;
+  top: 195%;
+  left: 20%;
+  line-height: 1.3;
+
+}
+
+.logo_270{
+  width: 70%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-bottom: 3px solid #000f9f;
+
+
+}
+
+.other_dartmouth{
+  position: absolute;
+  top: 88%;
+  line-height: 1.5;
+}
+
+.skills{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.glossier{
+  width: 60%;
+  height:55%;
+  position: absolute;
+  top: 280%;
+  left: 20%;
+  line-height: 1.3;
+}
+
+.logo_glossier{
+  width: 60%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-bottom: 3px solid #000f9f;
+}
+
+.skills_text{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #3E5873;
+  margin-top: 2%;
+  line-height: 1.5;
+
+}
+
+.outdoorvoices{
+  width: 60%;
+  height:27%;
+  position: absolute;
+  top: 405%;
+  left: 20%;
+  line-height: 1.5;
+}
+
+.logo_ov2{
+  position: absolute;
+  width: 55%;
+  opacity: .8;
+
+}
+
+.ov_box{
+  position: absolute;
+  top: 45%;
+  border-bottom: 3px solid #000f9f;
+  line-height: 1.6;
+}
+
+
+.keyrus{
+  width: 60%;
+  height:40%;
+  position: absolute;
+  top: 350%;
+  left: 20%;
+
+
+}
+
+.logo_keyrus{
+  width: 40%;
+  margin-top: 3%;
+  margin-left: 3%;
+  border-bottom: 3px solid #000f9f;
+}
+
+.letter{
+  width: 40%;
+  margin-left: 30%;
+  border: 3px solid #ffffff;
+  margin-top: 10%;
+}
+
+
+.goodbye{
+  width: 60%;
+  height:15%;
+  position: absolute;
+  top: 435%;
+  left: 20%;
+  line-height: 1.5;
+  margin-bottom: 5%;
+
+
+}
+
+.made{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #3E5873;
+    letter-spacing: 10px;
+    font-size: 15px;
+    text-align: center;
+    margin: 4%;
+    border: 3px solid #3E5873;
+
+}
+
+.linkedin{
+  width: 7%;
+  margin: 15% 5% 0% 40%;
+}
+
+.email{
+  width: 8%;
+}
+
+.click{
+  width: 15%;
+  top: 40%;
+  left: 4%;
+  position: absolute;
+  transform: rotate(-15deg);
+}
+
+
+.signature{
+  width:50%;
+  margin-left: 25%;
+}
